@@ -20,17 +20,14 @@
 
 ### Interests
 * I am focused mainly on web development at the moment. I also have interests in raspberry pi projects, python, machine learning, pc building and more. There just isn't enough time in the day.<br>
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+[<img src="https://raw.githubusercontent.com/cjherold/cjherold/a85d377c4bbb29cb6364bdba295eaff57482fc16/assets/js30.svg" height="30px" align="center" alt="Javascript"/>]()
+[<img src="https://raw.githubusercontent.com/cjherold/cjherold/a85d377c4bbb29cb6364bdba295eaff57482fc16/assets/ts30.svg" height="30px" align="center" alt="Typescript"/>]()
+[<img src="https://raw.githubusercontent.com/cjherold/cjherold/a85d377c4bbb29cb6364bdba295eaff57482fc16/assets/html30.svg" height="30px" align="center" alt="HTML"/>]()
+[<img src="https://raw.githubusercontent.com/cjherold/cjherold/a85d377c4bbb29cb6364bdba295eaff57482fc16/assets/css30.svg" height="30px" align="center" alt="CSS"/>]()
+[<img src="https://raw.githubusercontent.com/cjherold/cjherold/a85d377c4bbb29cb6364bdba295eaff57482fc16/assets/sass30.svg" height="30px" align="center" alt="Sass"/>]()
+[<img src="https://raw.githubusercontent.com/cjherold/cjherold/a85d377c4bbb29cb6364bdba295eaff57482fc16/assets/sql30.svg" height="30px" align="center" alt="MySQL"/>]()
+[<img src="https://raw.githubusercontent.com/cjherold/cjherold/a85d377c4bbb29cb6364bdba295eaff57482fc16/assets/python30.svg" height="30px" align="center" alt="Python"/>]()
+[<img src="https://raw.githubusercontent.com/cjherold/cjherold/a85d377c4bbb29cb6364bdba295eaff57482fc16/assets/pi30.svg" height="30px" align="center" alt="Raspberry Pi"/>]()
 
 
 ***
