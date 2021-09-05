@@ -28,7 +28,7 @@
 [<img src="https://raw.githubusercontent.com/cjherold/cjherold/a85d377c4bbb29cb6364bdba295eaff57482fc16/assets/sql30.svg" height="30px" align="center" alt="MySQL"/>](https://icons8.com/)
 [<img src="https://raw.githubusercontent.com/cjherold/cjherold/a85d377c4bbb29cb6364bdba295eaff57482fc16/assets/python30.svg" height="30px" align="center" alt="Python"/>](https://icons8.com/)
 [<img src="https://raw.githubusercontent.com/cjherold/cjherold/a85d377c4bbb29cb6364bdba295eaff57482fc16/assets/pi30.svg" height="30px" align="center" alt="Raspberry Pi"/>](https://icons8.com/)
-[<img src="https://raw.githubusercontent.com/cjherold/cjherold/60ba44c1e96c80c3e7ee7ebc1ef5fcd9a0685a85/assets/gulp30.svg" height="30px" align="center" alt="Gulp/>](https://icons8.com/)
+[<img src="https://raw.githubusercontent.com/cjherold/cjherold/60ba44c1e96c80c3e7ee7ebc1ef5fcd9a0685a85/assets/gulp30.svg" height="30px" align="center" alt="Gulp/">](https://icons8.com/)
  [<img src="https://raw.githubusercontent.com/cjherold/cjherold/60ba44c1e96c80c3e7ee7ebc1ef5fcd9a0685a85/assets/webpack30.svg" height="30px" align="center" alt="Webpack"/>](https://icons8.com/)
 
 ***
