@@ -37,7 +37,7 @@
 
 ### Contact
 * mrchristopherherold@gmail.com
-[<img src="https://raw.githubusercontent.com/cjherold/cjherold/cf36c2c3fe870212bd7cb00e945e75426af0abf2/assets/linkedin.svg" height="16px" align="center" alt="LinkedIn" title="Contact me via LinkedIn"/>](https://www.linkedin.com/in/cjherold/)
+[<img src="https://raw.githubusercontent.com/cjherold/cjherold/f56f95f509677dc83647b49e5f8ef0b54529cfda/assets/linkedin30.svg" height="30px" align="center" alt="LinkedIn" title="Contact me via LinkedIn"/>](https://www.linkedin.com/in/cjherold/)
 
 ***
 
