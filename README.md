@@ -8,13 +8,14 @@
 ***
 
 ### About
-* I'm working on posting more projects to Github instead of just hording them all to myself locally. I will most likely start the projects as private and then switch them to public once they are finished.
+* I'm working on posting more projects to Github instead of just hoarding them all to myself locally. I will most likely start the projects as private and then switch them to public once they are finished.
 
 *** 
 
 ### Coming Soon
 * typescript-starter
-  * I'm creating on a starter for static web pages that uses typescript, handlebars, gulp, webpack, babel, and a number of other things. This will make it very convenient to create simple web pages that get compiled and minimized into a dist folder.
+  * I'm creating a starter for static web pages that uses typescript, handlebars, gulp, webpack, babel, and a number of other things. This will make it very convenient to create simple web pages that get compiled and minimized into a dist folder.
+  * When that is finished I may create a server client version as well.
 
 ***
 
