@@ -20,15 +20,16 @@
 
 ### Interests
 * I am focused mainly on web development at the moment. I also have interests in raspberry pi projects, python, machine learning, pc building and more. There just isn't enough time in the day.<br>
-[<img src="https://raw.githubusercontent.com/cjherold/cjherold/a85d377c4bbb29cb6364bdba295eaff57482fc16/assets/js30.svg" height="30px" align="center" alt="Javascript"/>]()
-[<img src="https://raw.githubusercontent.com/cjherold/cjherold/a85d377c4bbb29cb6364bdba295eaff57482fc16/assets/ts30.svg" height="30px" align="center" alt="Typescript"/>]()
-[<img src="https://raw.githubusercontent.com/cjherold/cjherold/a85d377c4bbb29cb6364bdba295eaff57482fc16/assets/html30.svg" height="30px" align="center" alt="HTML"/>]()
-[<img src="https://raw.githubusercontent.com/cjherold/cjherold/a85d377c4bbb29cb6364bdba295eaff57482fc16/assets/css30.svg" height="30px" align="center" alt="CSS"/>]()
-[<img src="https://raw.githubusercontent.com/cjherold/cjherold/a85d377c4bbb29cb6364bdba295eaff57482fc16/assets/sass30.svg" height="30px" align="center" alt="Sass"/>]()
-[<img src="https://raw.githubusercontent.com/cjherold/cjherold/a85d377c4bbb29cb6364bdba295eaff57482fc16/assets/sql30.svg" height="30px" align="center" alt="MySQL"/>]()
-[<img src="https://raw.githubusercontent.com/cjherold/cjherold/a85d377c4bbb29cb6364bdba295eaff57482fc16/assets/python30.svg" height="30px" align="center" alt="Python"/>]()
-[<img src="https://raw.githubusercontent.com/cjherold/cjherold/a85d377c4bbb29cb6364bdba295eaff57482fc16/assets/pi30.svg" height="30px" align="center" alt="Raspberry Pi"/>]()
-
+[<img src="https://raw.githubusercontent.com/cjherold/cjherold/a85d377c4bbb29cb6364bdba295eaff57482fc16/assets/js30.svg" height="30px" align="center" alt="Javascript"/>](https://icons8.com/)
+[<img src="https://raw.githubusercontent.com/cjherold/cjherold/a85d377c4bbb29cb6364bdba295eaff57482fc16/assets/ts30.svg" height="30px" align="center" alt="Typescript"/>](https://icons8.com/)
+[<img src="https://raw.githubusercontent.com/cjherold/cjherold/a85d377c4bbb29cb6364bdba295eaff57482fc16/assets/html30.svg" height="30px" align="center" alt="HTML"/>](https://icons8.com/)
+[<img src="https://raw.githubusercontent.com/cjherold/cjherold/a85d377c4bbb29cb6364bdba295eaff57482fc16/assets/css30.svg" height="30px" align="center" alt="CSS"/>](https://icons8.com/)
+[<img src="https://raw.githubusercontent.com/cjherold/cjherold/a85d377c4bbb29cb6364bdba295eaff57482fc16/assets/sass30.svg" height="30px" align="center" alt="Sass"/>](https://icons8.com/)
+[<img src="https://raw.githubusercontent.com/cjherold/cjherold/a85d377c4bbb29cb6364bdba295eaff57482fc16/assets/sql30.svg" height="30px" align="center" alt="MySQL"/>](https://icons8.com/)
+[<img src="https://raw.githubusercontent.com/cjherold/cjherold/a85d377c4bbb29cb6364bdba295eaff57482fc16/assets/python30.svg" height="30px" align="center" alt="Python"/>](https://icons8.com/)
+[<img src="https://raw.githubusercontent.com/cjherold/cjherold/a85d377c4bbb29cb6364bdba295eaff57482fc16/assets/pi30.svg" height="30px" align="center" alt="Raspberry Pi"/>](https://icons8.com/)
+[<img src="https://raw.githubusercontent.com/cjherold/cjherold/60ba44c1e96c80c3e7ee7ebc1ef5fcd9a0685a85/assets/gulp30.svg" height="30px" align="center" alt="Gulp/>](https://icons8.com/)
+ [<img src="https://raw.githubusercontent.com/cjherold/cjherold/60ba44c1e96c80c3e7ee7ebc1ef5fcd9a0685a85/assets/webpack30.svg" height="30px" align="center" alt="Webpack"/>](https://icons8.com/)
 
 ***
 
