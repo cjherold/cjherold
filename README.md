@@ -37,6 +37,7 @@
 
 ### Contact
 * mrchristopherherold@gmail.com
+[<img src="https://" height="40em" align="center" alt="LinkedIn" title="Contact me via LinkedIn"/>](https://www.linkedin.com/in/cjherold/)
 
 ***
 
