@@ -41,4 +41,7 @@
 
 ***
 
+### Icon8
+<a href="https://icons8.com/">Find these icons on icons8.com</a>
+
 [Top](#nav)
