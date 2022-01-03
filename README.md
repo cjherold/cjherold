@@ -14,7 +14,7 @@
 
 ### Coming Soon
 * typescript-starter
-  * I'm creating a starter for static web pages that uses typescript, handlebars, gulp, webpack, babel, and a number of other things. This will make it very convenient to create simple web pages that get compiled and minimized into a dist folder.
+  * I'm creating a starter for static web pages that uses typescript, handlebars, gulp, webpack, babel, and a number of other things. This will make it very convenient to quickly create a web project.
   * When that is finished I may create a server client version as well.
 
 ***
@@ -37,11 +37,11 @@
 ### Contact
 [<img src="https://raw.githubusercontent.com/cjherold/cjherold/3051bc35f78e6ab0b7da4fe2ef9458a8e94dd5ef/assets/github30.svg" height="30px" align="center" alt="Github" title="Check out my github"/>](https://github.com/cjherold/)
 [<img src="https://raw.githubusercontent.com/cjherold/cjherold/f56f95f509677dc83647b49e5f8ef0b54529cfda/assets/linkedin30.svg" height="30px" align="center" alt="LinkedIn" title="Contact me via LinkedIn"/>](https://www.linkedin.com/in/cjherold/)
-[<img src="https://raw.githubusercontent.com/cjherold/cjherold/3051bc35f78e6ab0b7da4fe2ef9458a8e94dd5ef/assets/gmail30.svg" height="30px" align="center" alt="Gmail" title="Contact me via gmail"/>](mailto:mrchristopherherold@gmail.com)
+
 
 ***
 
 ### Icon8
-<a href="https://icons8.com/">Find these icons on icons8.com</a>
+<a href="https://icons8.com/">Find these icons at icons8.com</a>
 
 [Top](#nav)
